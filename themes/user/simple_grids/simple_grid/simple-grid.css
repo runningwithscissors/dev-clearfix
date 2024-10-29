@@ -1,0 +1,40 @@
+.simple-grid .toggle-btn {
+    padding-bottom: 6px;
+}
+.simple-grid .toggle-btn.on .slider::before {
+    right: -6px;
+    top: 3px;
+}
+/** only newly added grid rows get the .grid-toggle class **/
+.simple-grid .grid-toggle .toggle-btn.on .slider::before {
+    margin-right: 10px
+}
+.simple-grid .tbl-wrap + .toolbar {
+    display: inline-block !important;
+}
+
+.simple-grid .simple-gt--timezone {
+    display: block;
+    margin-top: 5px;
+}
+
+/* EE6+ */
+.blocksft .simple-grid .ui-sortable-handle {
+    display: block;
+}
+
+/*.sg_col_settings {*/
+/*    margin-top: 5px;*/
+/*}*/
+
+.sg_col_settings {
+    width: 400px;
+}
+
+.sg_col_settings .CodeMirror {
+    height: 200px;
+}
+
+.sg_dropdown {
+    display: none;
+}

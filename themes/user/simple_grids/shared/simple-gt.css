@@ -1,0 +1,96 @@
+.simple-gt.fieldset-faux {
+    padding: 0;
+}
+.blocksft .simple-gt .reorder-col .reorder {
+    display: none;
+}
+.blocksft .simple-gt .ui-sortable-handle {
+    display: none;
+}
+.blocksft .simple-gt .reorder-col {
+    padding: 0;
+    width: 30px;
+}
+.blocksft .simple-gt tbody .reorder-col::before {
+    content: "\f0c9";
+    font-size: 12px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    font-family: FontAwesome;
+    color: #ccc;
+}
+.blocksft .simple-gt tbody .reorder-col:hover {
+    cursor: move;
+}
+.blocksft .simple-gt tbody tr:hover .reorder-col::before {
+    color: #009ae1;
+}
+tbody td.solo {
+    text-align: center;
+    font-size: 14px;
+}
+.simple-gt .reorder-col {
+    /* Need important b/c something is adding display:block inline,
+    which does not work in Chrome when a Grid is nested inside of another Grid */
+    display: table-cell !important;
+}
+
+.simple-gt .grid-field__table tr td {
+    min-width: auto;
+    background-clip: padding-box; /* https://stackoverflow.com/a/16337203 */
+}
+
+/* Range sliders in a Grid with lots of columns gets so narrow it's unusable. */
+.simple-gt .range-grid {
+    min-width: 160px !important;
+}
+
+.simple-gt--heading-row input[type="text"] {
+    font-size: 1.5em;
+}
+.simple-gt--heading-row .grid-field__column-label {
+    display: none !important;
+}
+
+/*
+EE7 introduced the vertical Grid option, which _really_ messed up the display of SG&T
+that are inside of a vertical Grid b/c SG&T itself uses all the native grid classes.
+Restore SG&T to its expected display when inside the vertical Grid field.
+ */
+.grid-field.vertical-layout .simple-gt .grid-field__table {
+    display: table;
+}
+.grid-field.vertical-layout .simple-gt .grid-field__table thead,
+.grid-field.vertical-layout .simple-gt .grid-field__table tbody {
+    display: table-row-group;
+}
+.grid-field.vertical-layout .simple-gt .grid-field__table tbody tr:not(.hidden),
+.grid-field.vertical-layout .simple-gt .grid-field__table thead tr:not(.hidden) {
+    display: table-row;
+}
+.grid-field.vertical-layout .simple-gt .grid-field__table thead tr:not(.hidden) td,
+.grid-field.vertical-layout .simple-gt .grid-field__table tbody tr:not(.hidden) td {
+    display: table-cell;
+    padding: 8px;
+    width: auto;
+}
+.grid-field.vertical-layout .simple-gt.simple-table .grid-field__table tbody td[data-column-id] {
+    padding: 0;
+    border-right: 1px solid var(--ee-table-border);
+}
+.grid-field.vertical-layout .simple-gt .grid-field__column-label {
+    display: none;
+}
+.grid-field.vertical-layout .simple-gt .grid-field__column--tools {
+    display: table-cell !important;
+}
+.grid-field.vertical-layout .simple-gt .grid-field__table tbody tr:not(.hidden) td.grid-field__column--tools .button {
+    margin-bottom: 5px;
+}
+.grid-field.vertical-layout .simple-gt .grid-field__table tbody tr:not(.hidden) td.grid-field__column--tools .button:last-child {
+    margin-bottom: 0;
+}
+.grid-field.vertical-layout .simple-gt .grid-field__item-fieldset {
+    position: inherit;
+}

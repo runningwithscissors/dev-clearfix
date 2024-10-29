@@ -1,0 +1,93 @@
+/* Hide all footer buttons on load so we don't see a flash of the default buttons before they're replaced */
+.fluid__footer .button {
+    display: none;
+}
+/* And if it's not a Fluidity managed field, show the default buttons */
+.fluidity--ignored .fluid__footer .button {
+    display: inline-block;
+}
+
+.fluidity--filter-bar .dropdown_scroll a {
+    cursor: pointer;
+    display: block;
+}
+
+.fluidity .dropdown_scroll a span {
+    display: inline-block;
+}
+
+.fluidity--dropdown .field-instruct {
+    white-space: break-spaces;
+    min-width: 300px;
+}
+
+.fluidity--filter-bar .dropdown,
+.fluidity .fluid__item-tools .dropdown {
+    max-width: 500px;
+    min-width: 200px;
+}
+
+.fluidity--field {
+    display: block;
+    cursor: pointer;
+}
+
+.fluidity--field__name {
+}
+
+.fluidity--field__instruct {
+    padding-right: 0 !important;
+}
+
+.fluidity--field__instruct em {
+    margin-left: 0 !important;
+}
+
+.fluidity--field__icon {
+    float: left;
+    max-width: 20px;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+
+.fluidity--field__icon img {
+    max-width: 20px;
+    display: block;
+}
+
+.fluidity--field__icon img[src=""] {
+    display: none;
+}
+
+.fluidity--field__content {
+    overflow: hidden;
+}
+
+/* disable a weird and inconsistent rule in EE - the item-tools don't invert it */
+body[data-theme="dark"] .fluidity .fluid__footer img {
+    filter: none !important;
+}
+
+.fluidity .fluid__footer .dropdown,
+.fluidity .fluid__item-tools .dropdown {
+    white-space: inherit;
+}
+
+.fluidity--preview {
+    position: fixed;
+    bottom: 20px;
+    z-index: 9999;
+    padding: 10px;
+    background-color: var(--ee-bg-dropdown);
+    box-shadow: 0 1px 4px 0 var(--ee-shadow-dropdown);
+    border-radius: 5px;
+    max-width: 40%;
+}
+
+.fluidity--preview__right {
+    right: 20px;
+}
+
+.fluidity--preview__left {
+    left: 20px;
+}

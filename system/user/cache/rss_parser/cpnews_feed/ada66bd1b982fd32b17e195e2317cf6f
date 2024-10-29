@@ -1,0 +1,1029 @@
+a:3:{s:4:"time";i:1730209481;s:3:"ttl";i:0;s:4:"data";a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:0;a:6:{s:4:"data";s:105:"
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+
+	";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:16:"ExpressionEngine";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:4:"Blog";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:0:"";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:20:"application/atom+xml";s:4:"href";s:49:"https://expressionengine.com/blog/rss-feed/cpnews";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-10-15T17:43:32+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"rights";a:1:{i:0;a:5:{s:4:"data";s:30:"Copyright (c) 2024, Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:16:"ExpressionEngine";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"uri";s:28:"http://expressionengine.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:29:"https://expressionengine.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:20:"ExpressionEngine 7.5";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:54:"https://expressionengine.com/blog/expressionengine-7.5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:54:"https://expressionengine.com/blog/expressionengine-7.5";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-10-15T17:09:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-10-15T17:43:32+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:884:"
+				<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<p>In this latest release ExpressionEngine continues to focus on removing barriers of entry for new users and increasing the speed of development for everyone.</p>
+
+<p>It&#8217;s never been easier or faster to build, develop, modify, or a revise an ExpressionEngine site than it is with ExpressionEngine 7.5.</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zUi65O1eHu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 15 Oct 2024 17:09:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:874:"<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<p>In this latest release ExpressionEngine continues to focus on removing barriers of entry for new users and increasing the speed of development for everyone.</p>
+
+<p>It&#8217;s never been easier or faster to build, develop, modify, or a revise an ExpressionEngine site than it is with ExpressionEngine 7.5.</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zUi65O1eHu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:1;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:36:"ExpressionEngine 7.5 Code Generators";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:53:"https://expressionengine.com/blog/7.5-code-generators";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:53:"https://expressionengine.com/blog/7.5-code-generators";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-10-11T16:07:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-10-11T16:08:27+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:3663:"
+				<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<p>ExpressionEngine 7.5 takes a big step in the direction of making developers successful faster, specifically through a new set of generators that are now part of the core.</p>
+
+<h2>What are Generators?</h2>
+
+<p>Generators are designed to simplify and speed up the creation of ExpressionEngine templates, helping developers rapidly build and modify sites.</p>
+
+<h2>How are they used?</h2>
+
+<p>Template Generators can be used in a variety of ways. For starters, any place you see a field, field group, or channel short name with curly braces around it, you can click it to copy the necessary template code to your clipboard:</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/copy_tempalte_code.gif"></p>
+
+<p>Check out the quick 30-second video below to see how the click-to-copy feature works.</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PGBUZjPyTXs" title="Template Generators Coming in ExpressionEngine 7.5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<p>In addition to this, you can use the new <code>Template Generators</code> section in the Template Manager, as well as the CLI (Command Line Interface), to generate templates:</p>
+
+<h2>What can be generated?</h2>
+
+<p>Generators can be used to generate code for a single field, a field group, a channel, channel forms, Structure Navigation, Pro Search, and even Member management.</p>
+
+<p>Channels have been given special attention with the ability to generate listing pages, detailed single-entry pages, archive pages, category listings, RSS feeds as well as XML site maps.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/ChannelEntries.png"></p>
+
+<p>Additionally, you can also generate any member management template you want.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/MemberManagement.png"></p>
+
+<h2>Will the Generators work with Twig and Blade?</h2>
+
+<p>Support for Twig and Blade generators is nearly complete and will be available very soon for sites <a href="https://expressionengine.github.io/coilpack-docs/docs">running Coilpack.</a></p>
+
+<p>ExpressionEngine 7.5 is also shipping with a new config parameter that allows you to set your default template engine.  When this is set, all generators will default to your chosen template language.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/ConfigDefaultTemplateEngine.png"></p>
+
+<h2>Can I control the generated code?</h2>
+
+<p>Yes, in fact there&#8217;s several ways to override template generators.  The core will look in the following locations until it finds the approprate generator</p>
+
+<ul>
+<li><code>system/user/stubs/&#123;addon_name&#125;/&#123;generator_name&#125;</code>
+<br>User override for specific generator stub</li>
+<li><code>system/ee/ExpressionEngine/Addons/&#123;addon_name&#125;/stubs/&#123;generator_name&#125;</code> 
+<br>(Core/First-Party) Addon&#8217;s path for specific generator stub</li>
+<li><code>system/user/addons/&#123;addon_name&#125;/stubs/&#123;generator_name&#125;</code>
+<br>(Third-Party) Addon&#8217;s path for specific generator stub</li>
+<li><code>system/user/stubs</code>
+<br>User override for generic stub</li>
+<li><code>system/ee/templates/stubs</code>
+<br>System fallback for generic stub</li>
+</ul>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 11 Oct 2024 16:07:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3653:"<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<p>ExpressionEngine 7.5 takes a big step in the direction of making developers successful faster, specifically through a new set of generators that are now part of the core.</p>
+
+<h2>What are Generators?</h2>
+
+<p>Generators are designed to simplify and speed up the creation of ExpressionEngine templates, helping developers rapidly build and modify sites.</p>
+
+<h2>How are they used?</h2>
+
+<p>Template Generators can be used in a variety of ways. For starters, any place you see a field, field group, or channel short name with curly braces around it, you can click it to copy the necessary template code to your clipboard:</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/copy_tempalte_code.gif"></p>
+
+<p>Check out the quick 30-second video below to see how the click-to-copy feature works.</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PGBUZjPyTXs" title="Template Generators Coming in ExpressionEngine 7.5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<p>In addition to this, you can use the new <code>Template Generators</code> section in the Template Manager, as well as the CLI (Command Line Interface), to generate templates:</p>
+
+<h2>What can be generated?</h2>
+
+<p>Generators can be used to generate code for a single field, a field group, a channel, channel forms, Structure Navigation, Pro Search, and even Member management.</p>
+
+<p>Channels have been given special attention with the ability to generate listing pages, detailed single-entry pages, archive pages, category listings, RSS feeds as well as XML site maps.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/ChannelEntries.png"></p>
+
+<p>Additionally, you can also generate any member management template you want.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/MemberManagement.png"></p>
+
+<h2>Will the Generators work with Twig and Blade?</h2>
+
+<p>Support for Twig and Blade generators is nearly complete and will be available very soon for sites <a href="https://expressionengine.github.io/coilpack-docs/docs">running Coilpack.</a></p>
+
+<p>ExpressionEngine 7.5 is also shipping with a new config parameter that allows you to set your default template engine.  When this is set, all generators will default to your chosen template language.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/ConfigDefaultTemplateEngine.png"></p>
+
+<h2>Can I control the generated code?</h2>
+
+<p>Yes, in fact there&#8217;s several ways to override template generators.  The core will look in the following locations until it finds the approprate generator</p>
+
+<ul>
+<li><code>system/user/stubs/&#123;addon_name&#125;/&#123;generator_name&#125;</code>
+<br>User override for specific generator stub</li>
+<li><code>system/ee/ExpressionEngine/Addons/&#123;addon_name&#125;/stubs/&#123;generator_name&#125;</code> 
+<br>(Core/First-Party) Addon&#8217;s path for specific generator stub</li>
+<li><code>system/user/addons/&#123;addon_name&#125;/stubs/&#123;generator_name&#125;</code>
+<br>(Third-Party) Addon&#8217;s path for specific generator stub</li>
+<li><code>system/user/stubs</code>
+<br>User override for generic stub</li>
+<li><code>system/ee/templates/stubs</code>
+<br>System fallback for generic stub</li>
+</ul>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:2;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:10:"Join Slack";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:44:"https://expressionengine.com/blog/join-slack";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:44:"https://expressionengine.com/blog/join-slack";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-10-07T16:36:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-10-07T16:52:02+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:587:"
+				<p>It’s been several years since the re-opening of the official ExpressionEngine Slack, and in that time, it has grown from just a few thousand members to nearly 12,000.</p>
+
+<p>While the forum remains active, the #eecms Slack has become the central hub for the ExpressionEngine community to connect, ask questions, get to know each other, and interact with the ExpressionEngine team.</p>
+
+<h2>Join Today!</h2>
+
+<p>If you haven’t joined yet, <a href="https://join.slack.com/t/eecms/shared_invite/zt-2rsbr68k3-hjW3DwYmNtTKLHt4Ee3v6Q">we encourage you to join today!</a></p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 07 Oct 2024 16:36:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:577:"<p>It’s been several years since the re-opening of the official ExpressionEngine Slack, and in that time, it has grown from just a few thousand members to nearly 12,000.</p>
+
+<p>While the forum remains active, the #eecms Slack has become the central hub for the ExpressionEngine community to connect, ask questions, get to know each other, and interact with the ExpressionEngine team.</p>
+
+<h2>Join Today!</h2>
+
+<p>If you haven’t joined yet, <a href="https://join.slack.com/t/eecms/shared_invite/zt-2rsbr68k3-hjW3DwYmNtTKLHt4Ee3v6Q">we encourage you to join today!</a></p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:3;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:38:"ExpressionEngine 2024 Quarter 1 Review";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:72:"https://expressionengine.com/blog/expressionengine-2024-quarter-1-review";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:72:"https://expressionengine.com/blog/expressionengine-2024-quarter-1-review";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-06-24T16:32:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-06-25T18:47:23+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1164:"
+				<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<h2>2024 Quarter 1 Review</h2>
+
+<p>ExpressionEngine has undergone significant upgrades in recent years, continuing to enhance flexibility and security. We&#8217;re committed to being as transparent as possible to ensure the ExpressionEngine community stays informed, empowering you to make the best website and content management decisions. We’re thrilled about what’s in the pipeline and can’t wait for what&#8217;s in store for the rest of 2024!</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zw8k_grLtCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<p><a href="https://forms.gle/GRGhS4fKHUgeJG5dA">Have a question</a> you would like to see answered in the next quarterly update?</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 24 Jun 2024 16:32:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1154:"<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<h2>2024 Quarter 1 Review</h2>
+
+<p>ExpressionEngine has undergone significant upgrades in recent years, continuing to enhance flexibility and security. We&#8217;re committed to being as transparent as possible to ensure the ExpressionEngine community stays informed, empowering you to make the best website and content management decisions. We’re thrilled about what’s in the pipeline and can’t wait for what&#8217;s in store for the rest of 2024!</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zw8k_grLtCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<p><a href="https://forms.gle/GRGhS4fKHUgeJG5dA">Have a question</a> you would like to see answered in the next quarterly update?</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:4;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:20:"ExpressionEngine 7.4";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:54:"https://expressionengine.com/blog/expressionengine-7.4";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:54:"https://expressionengine.com/blog/expressionengine-7.4";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-02-14T15:10:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-02-14T16:23:45+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:524:"
+				<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<p>ExpressionEngine 7.4 comes with major member updates, Redactor X as a new addition to the Rich Text Editor (RTE) field type, substantial updates to categories, additional CLI commands, updates to channel forms, and a whole lot more!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 14 Feb 2024 15:10:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:514:"<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<p>ExpressionEngine 7.4 comes with major member updates, Redactor X as a new addition to the Rich Text Editor (RTE) field type, substantial updates to categories, additional CLI commands, updates to channel forms, and a whole lot more!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:5;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:65:"7.4.0 Preview: Redactor X Available in the Rich Text Editor (RTE)";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:86:"https://expressionengine.com/blog/7.4.0-preview-redactor-x-in-the-rich-text-editor-rte";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:86:"https://expressionengine.com/blog/7.4.0-preview-redactor-x-in-the-rich-text-editor-rte";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-02-12T15:00:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-02-13T16:58:52+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Robin Sowell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:33:"robin.sowell@expressionengine.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:4005:"
+				<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+
+<h3>TLDR</h3>
+
+<p>ExpressionEngine 7.4.0 brings a new WYSIWYG editor to the native RTE.  Redactor X is a modern, feature-rich editor, with a highly customizable interface.  And if you want to extend the native features? That&#8217;s easy to do as well.</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XTRv0ow5PUg?si=duM_pdCkDw6M22SB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h2>Redactor X RTE option</h2>
+
+<p>The native RTE field&#8217;s editor options expand in the 7.4.0 release to include the super smooth, feature-rich <a href="https://imperavi.com/redactorx/">Redactor X text editor</a>. The full editor toolset comes with all of the features you&#8217;d expect, including source code editing, ID and class selectors, image resizing and placement, and &#8216;undo/redo&#8217; buttons. Undo is my personal go to.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/Screenshot_2024-02-05_at_7.29.51 PM_.png" alt="RTE Redactor X" ></p>
+
+<p>There are multiple context sensitive menus that stay out of your way until you need them. Show the menus you want, where you want. If your dad wants a single static row with a bold button, an image button and nothing else? Let the man upload the pics of his new golf club driver in peace. Your boss can&#8217;t remember how to slap a © on the page? Put it in a context bar and look like a genius.</p>
+
+<p>Fully integrated with with Pages, Structure, and Files, this WYSIWYG editor makes what should be simple tasks actually simple.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/redactorx-responsive-menu.png" alt="Redactor X Content Sensitive Menu"></p>
+
+<h2>Easy customization from the control panel</h2>
+
+<p>Did I mention there are a lot of options with this editor? It&#8217;s kind of ridiculous how many choices you have with the default buttons/menus.  Find the combination that works best for you and your team; or your dad, as the case may be. Spellcheck options (including <a href="https://www.grammarly.com/">Grammarly</a>!) and a Right-to-Left language option are there out-of-the box as well.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/RTE-redactor-settings.png" alt="Redactor X settings"></p>
+
+<h2>Expand your horizons without being a programmer</h2>
+
+<p>No matter how many options come standard, sometimes you need more.  The emphasis on making your work easier continues in the Redactor X RTE&#8217;s advanced settings. Adding, editing, and customizing the native options can be done in the control panel via a simple configuration array. Custom CSS and/or custom Javascript can be added into standard ExpressionEngine templates, and then linked by select options. It doesn&#8217;t require a frontend developer to add new formatting options, custom styles, or even additional plugins.</p>
+
+<h2>Redactor- not gone, but kinda forgotten</h2>
+
+<p>Imperavi, the company behind both Redactor and Redactor X has ceased development of Redactor, and their <a href="https://imperavi.com/redactor/">support for it ended in 2023</a>.  Redactor X is their new, premier WYSIWYG editor, built from the ground up.  Your existing Redactor fields will continue working just fine, but they will also convert seamlessly to Redactor X as long as they use the shipped configuration. If your site uses custom javascript, it can be manually converted to the Redactor X format.</p>
+
+<p>Even if you&#8217;re not one to use a WYSIWYG, we think it&#8217;s worth giving Redactor X a shot.  The feedback from the developer previews has been phenomenal!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 12 Feb 2024 15:00:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3995:"<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+
+<h3>TLDR</h3>
+
+<p>ExpressionEngine 7.4.0 brings a new WYSIWYG editor to the native RTE.  Redactor X is a modern, feature-rich editor, with a highly customizable interface.  And if you want to extend the native features? That&#8217;s easy to do as well.</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XTRv0ow5PUg?si=duM_pdCkDw6M22SB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h2>Redactor X RTE option</h2>
+
+<p>The native RTE field&#8217;s editor options expand in the 7.4.0 release to include the super smooth, feature-rich <a href="https://imperavi.com/redactorx/">Redactor X text editor</a>. The full editor toolset comes with all of the features you&#8217;d expect, including source code editing, ID and class selectors, image resizing and placement, and &#8216;undo/redo&#8217; buttons. Undo is my personal go to.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/Screenshot_2024-02-05_at_7.29.51 PM_.png" alt="RTE Redactor X" ></p>
+
+<p>There are multiple context sensitive menus that stay out of your way until you need them. Show the menus you want, where you want. If your dad wants a single static row with a bold button, an image button and nothing else? Let the man upload the pics of his new golf club driver in peace. Your boss can&#8217;t remember how to slap a © on the page? Put it in a context bar and look like a genius.</p>
+
+<p>Fully integrated with with Pages, Structure, and Files, this WYSIWYG editor makes what should be simple tasks actually simple.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/redactorx-responsive-menu.png" alt="Redactor X Content Sensitive Menu"></p>
+
+<h2>Easy customization from the control panel</h2>
+
+<p>Did I mention there are a lot of options with this editor? It&#8217;s kind of ridiculous how many choices you have with the default buttons/menus.  Find the combination that works best for you and your team; or your dad, as the case may be. Spellcheck options (including <a href="https://www.grammarly.com/">Grammarly</a>!) and a Right-to-Left language option are there out-of-the box as well.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/RTE-redactor-settings.png" alt="Redactor X settings"></p>
+
+<h2>Expand your horizons without being a programmer</h2>
+
+<p>No matter how many options come standard, sometimes you need more.  The emphasis on making your work easier continues in the Redactor X RTE&#8217;s advanced settings. Adding, editing, and customizing the native options can be done in the control panel via a simple configuration array. Custom CSS and/or custom Javascript can be added into standard ExpressionEngine templates, and then linked by select options. It doesn&#8217;t require a frontend developer to add new formatting options, custom styles, or even additional plugins.</p>
+
+<h2>Redactor- not gone, but kinda forgotten</h2>
+
+<p>Imperavi, the company behind both Redactor and Redactor X has ceased development of Redactor, and their <a href="https://imperavi.com/redactor/">support for it ended in 2023</a>.  Redactor X is their new, premier WYSIWYG editor, built from the ground up.  Your existing Redactor fields will continue working just fine, but they will also convert seamlessly to Redactor X as long as they use the shipped configuration. If your site uses custom javascript, it can be manually converted to the Redactor X format.</p>
+
+<p>Even if you&#8217;re not one to use a WYSIWYG, we think it&#8217;s worth giving Redactor X a shot.  The feedback from the developer previews has been phenomenal!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:6;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:49:"7.4.0 Preview: Big Additions to Member Management";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:80:"https://expressionengine.com/blog/7.4-preview-big-additions-to-member-management";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:80:"https://expressionengine.com/blog/7.4-preview-big-additions-to-member-management";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-02-06T15:56:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-02-06T17:03:48+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Robin Sowell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:33:"robin.sowell@expressionengine.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:5372:"
+				<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<h3>TLDR</h3>
+
+<p>Member management gets a big boost in the ExpressionEngine 7.4 release.  A new channel fieldtype &#8216;Member&#8217; allows you to create relationships from entries to members, member custom fields now include most of the native fieldtypes, and there are also new and improved tags. We&#8217;ve also rolled out a new interface for member management in the Control Panel, and a few other surprises.</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_i-39IxDCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Member channel fieldtype</h3>
+
+<p>The new Member channel fieldtype allows you to create relationships between entries and members.  It works like the existing relationship field, but instead of relating entries to other entries, you can relate entries to members.  The settings allow limiting the member options by role, multiple selections, minimum and maximum number of selections, and display.  Related members and all of their custom fields can be displayed as part of the entry.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/member-field-publish.png" alt="Member fieldtype"></p>
+
+<h3>New fieldtypes for members</h3>
+
+<p>Speaking of custom member fields, we&#8217;re happy to share that in 7.4 you can now use more custom field types to store member data than ever before!  In addition to the 5 fieldtypes available in 7.3, 7.4.0 adds 12 additional options, including checkboxes and the file field. Now there are even more ways to include pictures of your dog being cute!</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/member-photo.png" alt="Member custom field file fieldtype" >
+</center></figure>
+
+<p>As with the existing member fieldtypes, the new fields are available on the member profile page of the control panel, and the frontend tags: <a href="https://docs.expressionengine.com/latest/member/registration.html">Registration tag</a>, and <a href="https://docs.expressionengine.com/latest/member/edit-profile.html">Profile edit tag</a>. And yes, you can display them in entries via the new Member channel fieldtype!</p>
+
+<h3>Better member forms</h3>
+
+<p>Member Registration and Profile Edit forms now operate similar to the Channel Entry form. There are more parameters to handle control over the assets needed for all of the additional fieldtypes, and more control over the display of the fields.  Individual form fields can be output individually using the <code>&#123;field:field_name&#125;</code> format or through <code>&#123;custom_fields&#125;&#123;/custom_fields&#125;</code> variable pair loop:</p>
+
+<div class="codeblock"><pre><code>        &#123;custom_fields&#125;
+            &lt;p&gt;
+                &lt;label&gt;&#123;lang:profile_field&#125;&lt;/label&gt;&lt;br&gt;
+                &lt;small&gt;&#123;lang:profile_field_description&#125;&lt;/small&gt;&lt;br&gt;
+
+                &#123;form:custom_profile_field&#125;
+
+            &lt;/p&gt;
+         &#123;/custom_fields&#125;
+</code></pre></div>
+
+<h3>Member tag additions</h3>
+
+<p>Member tags also got some love, with a new <code>&#123;exp:member:role_groups&#125;</code> template tag that displays the specified member&#8217;s assigned role groups:</p>
+
+<div class="codeblock"><pre><code>&lt;h1&gt;Role Groups&lt;/h1&gt;
+&#123;exp:member:role_groups&#125;
+     Role group id: &#123;role_group_id&#125; - Role group name: &#123;role_group_name&#125;
+&#123;/exp:member:role_groups&#125;
+</code></pre></div>
+
+<p>The existing <code>&#123;exp:member:has_role role_id="1|6&#125;</code> can now check against multiple roles using the pipe delimiter.</p>
+
+<h3>Hidden Gems</h3>
+
+<p>A couple of small crowd-pleasers are in this release. The Member Manager page now matches the Entry Manager, with customizable columns, the inclusion of custom fields, customizable search, quick links to edit, login as a member, and role management.</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/member-manager-cp.png" alt="Control panel member manager" >
+</center></figure>
+
+<p>Per user requests, you can log in with either a username OR email address.  Keep those feature requests coming in, we love adding them!</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/login-with-email.png" alt="Login with email address" >
+</center></figure>
+
+<p>Last but not least, there are new member avatar global variables that simplify the display of avatars on the front end.</p>
+
+<p><code>&lt;img src="images/avatars/&#123;logged_in_avatar_filename&#125;"&gt;</code></p>
+
+<p>That&#8217;s it, you&#8217;re showing the logged-in user&#8217;s avatar.</p>
+
+<p>Was this another excellent user feature request? Yes. Was it possible to do it before using the <a href="https://docs.expressionengine.com/latest/member/custom-profile-data.html#avatar_height">Custom Profile tag</a>? Yes. Is this easier cleaner and more elegant? Also yes.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 06 Feb 2024 15:56:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5362:"<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+<h3>TLDR</h3>
+
+<p>Member management gets a big boost in the ExpressionEngine 7.4 release.  A new channel fieldtype &#8216;Member&#8217; allows you to create relationships from entries to members, member custom fields now include most of the native fieldtypes, and there are also new and improved tags. We&#8217;ve also rolled out a new interface for member management in the Control Panel, and a few other surprises.</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_i-39IxDCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Member channel fieldtype</h3>
+
+<p>The new Member channel fieldtype allows you to create relationships between entries and members.  It works like the existing relationship field, but instead of relating entries to other entries, you can relate entries to members.  The settings allow limiting the member options by role, multiple selections, minimum and maximum number of selections, and display.  Related members and all of their custom fields can be displayed as part of the entry.</p>
+
+<p><img src="https://expressionengine.com/asset/img/blog/member-field-publish.png" alt="Member fieldtype"></p>
+
+<h3>New fieldtypes for members</h3>
+
+<p>Speaking of custom member fields, we&#8217;re happy to share that in 7.4 you can now use more custom field types to store member data than ever before!  In addition to the 5 fieldtypes available in 7.3, 7.4.0 adds 12 additional options, including checkboxes and the file field. Now there are even more ways to include pictures of your dog being cute!</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/member-photo.png" alt="Member custom field file fieldtype" >
+</center></figure>
+
+<p>As with the existing member fieldtypes, the new fields are available on the member profile page of the control panel, and the frontend tags: <a href="https://docs.expressionengine.com/latest/member/registration.html">Registration tag</a>, and <a href="https://docs.expressionengine.com/latest/member/edit-profile.html">Profile edit tag</a>. And yes, you can display them in entries via the new Member channel fieldtype!</p>
+
+<h3>Better member forms</h3>
+
+<p>Member Registration and Profile Edit forms now operate similar to the Channel Entry form. There are more parameters to handle control over the assets needed for all of the additional fieldtypes, and more control over the display of the fields.  Individual form fields can be output individually using the <code>&#123;field:field_name&#125;</code> format or through <code>&#123;custom_fields&#125;&#123;/custom_fields&#125;</code> variable pair loop:</p>
+
+<div class="codeblock"><pre><code>        &#123;custom_fields&#125;
+            &lt;p&gt;
+                &lt;label&gt;&#123;lang:profile_field&#125;&lt;/label&gt;&lt;br&gt;
+                &lt;small&gt;&#123;lang:profile_field_description&#125;&lt;/small&gt;&lt;br&gt;
+
+                &#123;form:custom_profile_field&#125;
+
+            &lt;/p&gt;
+         &#123;/custom_fields&#125;
+</code></pre></div>
+
+<h3>Member tag additions</h3>
+
+<p>Member tags also got some love, with a new <code>&#123;exp:member:role_groups&#125;</code> template tag that displays the specified member&#8217;s assigned role groups:</p>
+
+<div class="codeblock"><pre><code>&lt;h1&gt;Role Groups&lt;/h1&gt;
+&#123;exp:member:role_groups&#125;
+     Role group id: &#123;role_group_id&#125; - Role group name: &#123;role_group_name&#125;
+&#123;/exp:member:role_groups&#125;
+</code></pre></div>
+
+<p>The existing <code>&#123;exp:member:has_role role_id="1|6&#125;</code> can now check against multiple roles using the pipe delimiter.</p>
+
+<h3>Hidden Gems</h3>
+
+<p>A couple of small crowd-pleasers are in this release. The Member Manager page now matches the Entry Manager, with customizable columns, the inclusion of custom fields, customizable search, quick links to edit, login as a member, and role management.</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/member-manager-cp.png" alt="Control panel member manager" >
+</center></figure>
+
+<p>Per user requests, you can log in with either a username OR email address.  Keep those feature requests coming in, we love adding them!</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/login-with-email.png" alt="Login with email address" >
+</center></figure>
+
+<p>Last but not least, there are new member avatar global variables that simplify the display of avatars on the front end.</p>
+
+<p><code>&lt;img src="images/avatars/&#123;logged_in_avatar_filename&#125;"&gt;</code></p>
+
+<p>That&#8217;s it, you&#8217;re showing the logged-in user&#8217;s avatar.</p>
+
+<p>Was this another excellent user feature request? Yes. Was it possible to do it before using the <a href="https://docs.expressionengine.com/latest/member/custom-profile-data.html#avatar_height">Custom Profile tag</a>? Yes. Is this easier cleaner and more elegant? Also yes.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:7;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:53:"7.4.0 Preview: Cool Things You Didn’t Know You Need";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:59:"https://expressionengine.com/blog/7.4.0-preview-cool-things";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:59:"https://expressionengine.com/blog/7.4.0-preview-cool-things";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-02-01T20:13:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-09-13T19:17:21+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Robin Sowell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:33:"robin.sowell@expressionengine.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:4180:"
+							<p>Sometimes it’s the little things that make the biggest impacts. ExpressionEngine 7.4.0 adds many of those hidden gems. Here we’ll celebrate the small touches that you may not know you want, yet find you can’t live without. Well, you could, but you’d be less happy.  And we want you to be happy!</p>
+
+<h3>Show field short names on the entry page</h3>
+
+<p>This is one I find myself using all the time when debugging or setting up new templates.  You’re working in the entry publisher and need to know the field short name on the fly?  Now there’s a setting to display those field short names on the publish page.</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/blog-shortname-on-publish.png" alt="Shortname display on publish page">
+</center></figure>
+
+<h3>Edit file metadata on the fly</h3>
+
+<p>Another feature you won’t know how you lived without, is the ability to add or edit file metadata straight from the entry publisher when you add your image.  It’s another big time saver when you’re in data entry mode!</p>
+
+<p>Just click the metadata button:</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/file-metadata-button.png" alt="File Metadata Button">
+</center></figure>
+
+<p>And the metadata is yours to command:</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/file-metadata-modal.png" alt="File Metadata Modal">
+</center></figure>
+
+<h3>View and edit source code in the CKEditor</h3>
+
+<p>OK, everyone who uses the CKEditor option for their Rich Text Editor (RTE) fields already knew they needed this one. In 7.4.0, there’s a button to view and edit the source code. Kudos to the <a href="https://ckeditor.com/">CKEditor team</a> for making that possible!</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/ckeditor-source-view.png" alt="">
+</center></figure>
+
+<h3>More control over forms attributes</h3>
+
+<p>ExpressionEngine’s approach to creating forms via tags keeps things simple and secure and it has always been easy to add classes and IDs. But great designers may need more than that to fully realize their designs. This implementation keeps things safe, while allowing HTML attributes to be passed through as form parameters. You can limit the attributes you want to allow via the form_attributes.php configuration file.</p>
+
+<p><code>&#123;exp:email:form data-automobile_type="ford"&#125;</code></p>
+
+<p>Results in:</p>
+
+<div class="codeblock"><pre class="hljs xml"><code>&lt;span class="hljs-tag"&gt;&lt;&lt;span class="hljs-name"&gt;form&lt;/span&gt; &lt;span class="hljs-attr"&gt;data-automobile_type&lt;/span&gt;=&lt;span class="hljs-string"&gt;"ford"&lt;/span&gt; &lt;span class="hljs-attr"&gt;etc...&lt;/span&gt;&gt;&lt;/span&gt;
+</code></div>
+
+<p>This community driven addition shows the designers touch from start to finish and the final form owes special thanks to <a href="https://github.com/jcogs-design">@jcogs-design</a>, <a href="https://github.com/albuvee">@albuvee</a> and <a href="https://github.com/litzinger">@litzinger</a>.</p>
+
+<h3>Prettier fields in Channel Entry forms</h3>
+
+<p>The frontend channel entry form has always been flexible with regard to how fields are displayed, but sometimes you want to just use a <code>&#123;field:name&#125;</code> tag or a channel entry loop and have everything look pretty right off the bat. 7.4.0 polishes up the default display of the fields. Now a toggle looks like a toggle out of the box!</p>
+
+<h3>Require a category or limit category to 1 selection</h3>
+
+<p>The category system has always been versatile, allowing nesting, multiple category groups, and easy navigation using the assigned categories.  But sometimes an entry should have 1 and only 1 category selected. That’s easy to do in 7.4.0, with a per category group setting for each channel.  You can now limit categories to a single selection and/or require a category to be selected via the channel settings and you’re golden.</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/category-req-max-settings.png" alt="Category require and limit settings">
+</center></figure>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 01 Feb 2024 20:13:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4170:"			<p>Sometimes it’s the little things that make the biggest impacts. ExpressionEngine 7.4.0 adds many of those hidden gems. Here we’ll celebrate the small touches that you may not know you want, yet find you can’t live without. Well, you could, but you’d be less happy.  And we want you to be happy!</p>
+
+<h3>Show field short names on the entry page</h3>
+
+<p>This is one I find myself using all the time when debugging or setting up new templates.  You’re working in the entry publisher and need to know the field short name on the fly?  Now there’s a setting to display those field short names on the publish page.</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/blog-shortname-on-publish.png" alt="Shortname display on publish page">
+</center></figure>
+
+<h3>Edit file metadata on the fly</h3>
+
+<p>Another feature you won’t know how you lived without, is the ability to add or edit file metadata straight from the entry publisher when you add your image.  It’s another big time saver when you’re in data entry mode!</p>
+
+<p>Just click the metadata button:</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/file-metadata-button.png" alt="File Metadata Button">
+</center></figure>
+
+<p>And the metadata is yours to command:</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/file-metadata-modal.png" alt="File Metadata Modal">
+</center></figure>
+
+<h3>View and edit source code in the CKEditor</h3>
+
+<p>OK, everyone who uses the CKEditor option for their Rich Text Editor (RTE) fields already knew they needed this one. In 7.4.0, there’s a button to view and edit the source code. Kudos to the <a href="https://ckeditor.com/">CKEditor team</a> for making that possible!</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/ckeditor-source-view.png" alt="">
+</center></figure>
+
+<h3>More control over forms attributes</h3>
+
+<p>ExpressionEngine’s approach to creating forms via tags keeps things simple and secure and it has always been easy to add classes and IDs. But great designers may need more than that to fully realize their designs. This implementation keeps things safe, while allowing HTML attributes to be passed through as form parameters. You can limit the attributes you want to allow via the form_attributes.php configuration file.</p>
+
+<p><code>&#123;exp:email:form data-automobile_type="ford"&#125;</code></p>
+
+<p>Results in:</p>
+
+<div class="codeblock"><pre class="hljs xml"><code>&lt;span class="hljs-tag"&gt;&lt;&lt;span class="hljs-name"&gt;form&lt;/span&gt; &lt;span class="hljs-attr"&gt;data-automobile_type&lt;/span&gt;=&lt;span class="hljs-string"&gt;"ford"&lt;/span&gt; &lt;span class="hljs-attr"&gt;etc...&lt;/span&gt;&gt;&lt;/span&gt;
+</code></div>
+
+<p>This community driven addition shows the designers touch from start to finish and the final form owes special thanks to <a href="https://github.com/jcogs-design">@jcogs-design</a>, <a href="https://github.com/albuvee">@albuvee</a> and <a href="https://github.com/litzinger">@litzinger</a>.</p>
+
+<h3>Prettier fields in Channel Entry forms</h3>
+
+<p>The frontend channel entry form has always been flexible with regard to how fields are displayed, but sometimes you want to just use a <code>&#123;field:name&#125;</code> tag or a channel entry loop and have everything look pretty right off the bat. 7.4.0 polishes up the default display of the fields. Now a toggle looks like a toggle out of the box!</p>
+
+<h3>Require a category or limit category to 1 selection</h3>
+
+<p>The category system has always been versatile, allowing nesting, multiple category groups, and easy navigation using the assigned categories.  But sometimes an entry should have 1 and only 1 category selected. That’s easy to do in 7.4.0, with a per category group setting for each channel.  You can now limit categories to a single selection and/or require a category to be selected via the channel settings and you’re golden.</p>
+
+<figure><center>
+<img src="https://expressionengine.com/asset/img/blog/category-req-max-settings.png" alt="Category require and limit settings">
+</center></figure>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:8;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:20:"ExpressionEngine 7.3";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:54:"https://expressionengine.com/blog/expressionengine-7.3";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:54:"https://expressionengine.com/blog/expressionengine-7.3";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2023-06-08T13:17:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2023-06-08T13:43:02+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:3154:"
+				<p>We&#8217;re happy to share today that ExpressionEngine 7.3 is here, and it&#8217;s a packed release!</p>
+
+<p><strong>TLDR:</strong>  ExpressionEngine 7.3 brings with it field groups in fluid fields, color-coded statuses in relationship fields, new CLI (Command Line Interface) commands for deployments, a publish prolet to enable creating entries on the front-end of your site,  allowing upload directories to be used across MSM sites,  configurable parameters for automatic URL titles on entries, as well as cloning of fields, statuses, categories, and channel layouts.</p>
+
+<h2>Field Groups in Fluid Fields</h2>
+
+<p>Field groups in Fluid Fields further elevates the content administration experience in ExpressionEngine, allowing you to more easily tie a predefined grouping of fields inside ExpressionEngine with components in your design system.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/Field-groups-in-fluid.png" alt="Field Groups in Fluid">
+</center></figure>
+
+<h2>New CLI Commands</h2>
+
+<p>In version 7.3 the CLI (Command Line Interface) is also taking a large step forward with the addition of 8 new commands.  The new commands are specifically designed to help with the process of deploying ExpressionEngine sites, as well as opening the door for additional automation in the management of ExpressionEngine sites.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/new-cli-commands.png" alt="New CLI Commands">
+</center></figure>
+
+<h2>Extending Cloning</h2>
+
+<p>Last year we <a href="https://expressionengine.com/blog/expressionengine-pro-1.2-entry-cloning">rolled out the well-received Entry Cloning</a>.  In the 7.3 release, we&#8217;ve extended cloning across the control panel to now cover channel fields, channel layouts, member roles, and categories!</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/ee73-field-cloning.png" alt="New CLI Commands">
+</center></figure>
+
+<h2>Multiple Variable Modifiers</h2>
+
+<p>We&#8217;ve also expanded the template parser to support the ability to chain together multiple variable modifiers to be used on a single template variable.  Add-ons can now also register their own variable modifiers. (Please note, a <a href="https://expressionengine.com/blog/announcing-coilpack">coilpack</a> update is coming shortly that add&#8217;s support for this across Blade and Twig as well)</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/chaining-variable-modifiers.png" alt="Chaining Variable Modifiers">
+</center></figure>
+
+<h2>Relationship Field Updates</h2>
+
+<p>The relationship field now includes a status indicator that visually reflects the related entry&#8217;s status.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/ee73-relationship-status.png" alt="ee73-relationship-status.png">
+</center></figure>
+
+<h2>Much More</h2>
+
+<p>In addition to the above, there is much more to the ExpressionEngine 7.3 release.  Check out the <a href="https://docs.expressionengine.com/latest/installation/changelog.html#version-730">Change Log</a>!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Jun 2023 13:17:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3144:"<p>We&#8217;re happy to share today that ExpressionEngine 7.3 is here, and it&#8217;s a packed release!</p>
+
+<p><strong>TLDR:</strong>  ExpressionEngine 7.3 brings with it field groups in fluid fields, color-coded statuses in relationship fields, new CLI (Command Line Interface) commands for deployments, a publish prolet to enable creating entries on the front-end of your site,  allowing upload directories to be used across MSM sites,  configurable parameters for automatic URL titles on entries, as well as cloning of fields, statuses, categories, and channel layouts.</p>
+
+<h2>Field Groups in Fluid Fields</h2>
+
+<p>Field groups in Fluid Fields further elevates the content administration experience in ExpressionEngine, allowing you to more easily tie a predefined grouping of fields inside ExpressionEngine with components in your design system.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/Field-groups-in-fluid.png" alt="Field Groups in Fluid">
+</center></figure>
+
+<h2>New CLI Commands</h2>
+
+<p>In version 7.3 the CLI (Command Line Interface) is also taking a large step forward with the addition of 8 new commands.  The new commands are specifically designed to help with the process of deploying ExpressionEngine sites, as well as opening the door for additional automation in the management of ExpressionEngine sites.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/new-cli-commands.png" alt="New CLI Commands">
+</center></figure>
+
+<h2>Extending Cloning</h2>
+
+<p>Last year we <a href="https://expressionengine.com/blog/expressionengine-pro-1.2-entry-cloning">rolled out the well-received Entry Cloning</a>.  In the 7.3 release, we&#8217;ve extended cloning across the control panel to now cover channel fields, channel layouts, member roles, and categories!</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/ee73-field-cloning.png" alt="New CLI Commands">
+</center></figure>
+
+<h2>Multiple Variable Modifiers</h2>
+
+<p>We&#8217;ve also expanded the template parser to support the ability to chain together multiple variable modifiers to be used on a single template variable.  Add-ons can now also register their own variable modifiers. (Please note, a <a href="https://expressionengine.com/blog/announcing-coilpack">coilpack</a> update is coming shortly that add&#8217;s support for this across Blade and Twig as well)</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/chaining-variable-modifiers.png" alt="Chaining Variable Modifiers">
+</center></figure>
+
+<h2>Relationship Field Updates</h2>
+
+<p>The relationship field now includes a status indicator that visually reflects the related entry&#8217;s status.</p>
+
+<figure><center>
+    <img src="https://expressionengine.com/asset/img/blog/ee73-relationship-status.png" alt="ee73-relationship-status.png">
+</center></figure>
+
+<h2>Much More</h2>
+
+<p>In addition to the above, there is much more to the ExpressionEngine 7.3 release.  Check out the <a href="https://docs.expressionengine.com/latest/installation/changelog.html#version-730">Change Log</a>!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:9;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:19:"Announcing Coilpack";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:53:"https://expressionengine.com/blog/announcing-coilpack";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:53:"https://expressionengine.com/blog/announcing-coilpack";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2023-04-27T15:17:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2023-04-27T20:23:39+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:3798:"
+				<h2>Coilpack</h2>
+
+<p>This release represents much more than the shipment of just &#8220;another product&#8221; for the ExpressionEngine world.  While far from finished, Coilpack brings to fruition a set of multi-year strategic arcs for ExpressionEngine that we started when we first acquired this beloved content management system (CMS).</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/11tLF-vV8Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h2>Enter a Composable Architecture</h2>
+
+<p>A few years ago, we took a look at where CMSs were, where we believed they were heading, and ultimately where they needed to be.  This assessment led us to the ideas behind Coilpack.  More specifically, a composable architecture for ExpressionEngine was brought to light by harnessing the powerful Laravel ecosystem.</p>
+
+<p>This started a long journey for us, originally with questions of &#8220;Is this possible?&#8221; to &#8220;Can we do this without breaking changes to maintain stability?&#8221; and ultimately to &#8220;Can we open access to everything Laravel has to offer without jeopardizing ExpressionEngine?&#8221;  Today we are happy to put forth Coilpack as an affirmative answer to all of these questions.</p>
+
+<p>Coilpack opens up new possibilities in ways to both build and modernize sites with ExpressionEngine.  Even if you have no immediate need for the solutions offered by Coilpack, we believe that these changes will benefit the entire ExpressionEngine community.</p>
+
+<h2>What is Coilpack?</h2>
+
+<p>Coilpack is a composer package that revolutionizes the way developers work with ExpressionEngine. It introduces a flexible and decoupled architecture that seamlessly integrates with Laravel&#8217;s ecosystem, allowing developers to unlock an array of powerful tools like GraphQL, Twig, Blade, and more.</p>
+
+<p>With Coilpack, customizing your solutions has never been easier. Whether you need to add support for Blade or Twig templates or integrate your content with Laravel using extension hooks, Coilpack has you covered. You can even access the ExpressionEngine container and retrieve ExpressionEngine authenticated members natively, opening up a world of endless possibilities. Overall, Coilpack empowers developers to create custom solutions with ease and efficiency.</p>
+
+<h3>Looking to go deeper with Coilpack?</h3>
+
+<p>The following are a few resources to jump in, or learn more about Coilpack!</p>
+
+<ul>
+<li><a href="https://expressionengine.github.io/coilpack-docs/docs">Official Docs</a></li>
+<li><a href="https://expressionengine.github.io/coilpack-docs/docs/getting-started">Getting Started Guide</a></li>
+<li>Tighten Article on <a href="https://ee.tighten.com/articles/headless-serverless-expressionengine-nextjs-on-vercel/">Headless, Serverless ExpressionEngine: Next.js on Vercel</a></li>
+<li>Tighten Article on <a href="https://ee.tighten.com/articles/adding-expressionengine-to-laravel-with-coilpack/">Adding ExpressionEngine to a Laravel App with Coilpack</a></li>
+<li>Solspace Podcast Interview about Coilpack <a href="https://solspace.com/podcast/expressionengine-coilpack-part-1">Part 1</a> and <a href="https://solspace.com/podcast/expressionengine-coilpack-part-2">Part 2</a></li>
+<li>Boldminded <a href="https://boldminded.com/news/the-future-is-bright">Thoughts on Coilpack</a></li>
+</ul>
+
+<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 27 Apr 2023 15:17:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3788:"<h2>Coilpack</h2>
+
+<p>This release represents much more than the shipment of just &#8220;another product&#8221; for the ExpressionEngine world.  While far from finished, Coilpack brings to fruition a set of multi-year strategic arcs for ExpressionEngine that we started when we first acquired this beloved content management system (CMS).</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/11tLF-vV8Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h2>Enter a Composable Architecture</h2>
+
+<p>A few years ago, we took a look at where CMSs were, where we believed they were heading, and ultimately where they needed to be.  This assessment led us to the ideas behind Coilpack.  More specifically, a composable architecture for ExpressionEngine was brought to light by harnessing the powerful Laravel ecosystem.</p>
+
+<p>This started a long journey for us, originally with questions of &#8220;Is this possible?&#8221; to &#8220;Can we do this without breaking changes to maintain stability?&#8221; and ultimately to &#8220;Can we open access to everything Laravel has to offer without jeopardizing ExpressionEngine?&#8221;  Today we are happy to put forth Coilpack as an affirmative answer to all of these questions.</p>
+
+<p>Coilpack opens up new possibilities in ways to both build and modernize sites with ExpressionEngine.  Even if you have no immediate need for the solutions offered by Coilpack, we believe that these changes will benefit the entire ExpressionEngine community.</p>
+
+<h2>What is Coilpack?</h2>
+
+<p>Coilpack is a composer package that revolutionizes the way developers work with ExpressionEngine. It introduces a flexible and decoupled architecture that seamlessly integrates with Laravel&#8217;s ecosystem, allowing developers to unlock an array of powerful tools like GraphQL, Twig, Blade, and more.</p>
+
+<p>With Coilpack, customizing your solutions has never been easier. Whether you need to add support for Blade or Twig templates or integrate your content with Laravel using extension hooks, Coilpack has you covered. You can even access the ExpressionEngine container and retrieve ExpressionEngine authenticated members natively, opening up a world of endless possibilities. Overall, Coilpack empowers developers to create custom solutions with ease and efficiency.</p>
+
+<h3>Looking to go deeper with Coilpack?</h3>
+
+<p>The following are a few resources to jump in, or learn more about Coilpack!</p>
+
+<ul>
+<li><a href="https://expressionengine.github.io/coilpack-docs/docs">Official Docs</a></li>
+<li><a href="https://expressionengine.github.io/coilpack-docs/docs/getting-started">Getting Started Guide</a></li>
+<li>Tighten Article on <a href="https://ee.tighten.com/articles/headless-serverless-expressionengine-nextjs-on-vercel/">Headless, Serverless ExpressionEngine: Next.js on Vercel</a></li>
+<li>Tighten Article on <a href="https://ee.tighten.com/articles/adding-expressionengine-to-laravel-with-coilpack/">Adding ExpressionEngine to a Laravel App with Coilpack</a></li>
+<li>Solspace Podcast Interview about Coilpack <a href="https://solspace.com/podcast/expressionengine-coilpack-part-1">Part 1</a> and <a href="https://solspace.com/podcast/expressionengine-coilpack-part-2">Part 2</a></li>
+<li>Boldminded <a href="https://boldminded.com/news/the-future-is-bright">Thoughts on Coilpack</a></li>
+</ul>
+
+<style>
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+</style>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:13:{s:6:"server";s:12:"nginx/1.17.3";s:4:"date";s:29:"Wed, 16 Oct 2024 15:48:30 GMT";s:12:"content-type";s:23:"text/xml; charset=utf-8";s:10:"connection";s:10:"keep-alive";s:10:"set-cookie";s:577:"exp_last_visit=1413733710; expires=Thu, 16-Oct-2025 15:48:30 GMT; Max-Age=31536000; path=/; SameSite=Lax; secure; HttpOnly, exp_last_activity=1729093710; expires=Thu, 16-Oct-2025 15:48:30 GMT; Max-Age=31536000; path=/; SameSite=Lax; secure; HttpOnly, exp_csrf_token=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; SameSite=Lax; secure; HttpOnly, exp_csrf_token=ce3ccdde99822ef477d20e69d1f9127532471601; expires=Wed, 16-Oct-2024 17:48:30 GMT; Max-Age=7200; path=/; SameSite=Lax; secure; HttpOnly, PHPSESSID=sv4ii8ed7cbmskphk5saclq4fm; path=/; secure; HttpOnly";s:15:"x-frame-options";s:22:"SAMEORIGIN, SAMEORIGIN";s:7:"expires";s:29:"Tue, 15 Oct 2024 18:43:32 GMT";s:13:"last-modified";s:29:"Tue, 15 Oct 2024 17:43:32 GMT";s:13:"cache-control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"pragma";s:8:"no-cache";s:16:"x-xss-protection";s:13:"1; mode=block";s:22:"x-content-type-options";s:7:"nosniff";s:23:"content-security-policy";s:23:"frame-ancestors 'self';";}s:5:"build";s:14:"20241016012106";}}

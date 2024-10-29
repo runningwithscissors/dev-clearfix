@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="201px" viewBox="0 0 200 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <polygon id="Rectangle" fill="#040404" fill-rule="nonzero" points="60.1611328 0.125976562 200 0.125976562 200 200.125977 0 200.125977 0 0.125976562 30.3037109 0 30 170.125977 170 170.125977 170 30.1259766 60.1611328 30.1259766"></polygon>
+            <g id="icon-simple-grids" transform="translate(43.000000, 50.000000)">
+                <polygon id="Path" points="0 0 109 0 109 109 0 109"></polygon>
+                <path d="M19,48.6923077 L41.3529412,48.6923077 L41.3529412,21 L19,21 L19,48.6923077 Z M19,81 L41.3529412,81 L41.3529412,53.3076923 L19,53.3076923 L19,81 Z M45.8235294,81 L68.1764706,81 L68.1764706,53.3076923 L45.8235294,53.3076923 L45.8235294,81 Z M72.6470588,81 L95,81 L95,53.3076923 L72.6470588,53.3076923 L72.6470588,81 Z M45.8235294,48.6923077 L68.1764706,48.6923077 L68.1764706,21 L45.8235294,21 L45.8235294,48.6923077 Z M72.6470588,21 L72.6470588,48.6923077 L95,48.6923077 L95,21 L72.6470588,21 Z" id="Shape" fill="#99C2EA" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

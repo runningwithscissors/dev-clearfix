@@ -1,0 +1,80 @@
+.simple-table thead .toolbar,
+.blocksft .tbl-list .simple-table thead .toolbar {
+    position: absolute;
+    top: -2px;
+    right: 12px;
+}
+.blocksft .tbl-list .simple-table thead .toolbar {
+    top: 3px;
+}
+.simple-table td[data-column-id] {
+    position: relative;
+}
+textarea.simple-table--input {
+    border: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-box-shadow: none;
+    -mox-box-shadow: none;
+    box-shadow: none;
+    border-radius: 0;
+    font: normal normal 14px Helvetica, Arial, Sans-Serif;
+    resize: none;
+}
+.simple-table td[data-column-id] {
+    padding: 0;
+}
+.simple-table .tbl-wrap + .toolbar {
+    display: inline-block !important;
+    margin-top: 5px;
+}
+tbody .simple-table tbody td {
+    border-bottom: 1px solid var(--ee-table-border);
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+}
+tbody .simple-table tbody tr:last-child td {
+    border-bottom: 0;
+}
+tbody tr:last-child .simple-table td:first-child,
+tbody tr:last-child .simple-table td:last-child {
+    border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    -webkit-border-radius: 0 !important;
+}
+
+/* EE6+ */
+.simple-table thead th button,
+.blocksft .list-group .simple-table thead th button {
+    position: absolute;
+    top: 5px;
+    right: 12px;
+}
+.simple-table thead th {
+    position: relative;
+}
+.simple-table tbody td {
+    border-right: 1px solid var(--ee-border);
+}
+.simple-table tbody td:last-child {
+    border-right: 0;
+}
+.simple-table table,
+.simple-table td {
+    background-color: var(--ee-table-bg);
+}
+.simple-table tr:not(.no-results) td {
+    background-color: var(--ee-bg-0);
+}
+.blocksft .simple-table td {
+    background-color: none;
+}
+.blocksft .simple-table .ui-sortable-handle {
+    display: block;
+}
+
+.simple-table .no-results td {
+    background: none;
+}
