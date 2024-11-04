@@ -1,0 +1,29 @@
+name: Deploy to Bluehost
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build application
+        run: npm run build
+
+      - name: Deploy to Bluehost
+        uses: easingthemes/ssh-deploy@v2.2.7
+        with:
+          server: dev-clearfix.com
+          username: kkbvuxmy
+          password: ${{ secrets.0LIV3jus3!JT }}
+          local_path: ./build
+          remote_path: /home2/kkbvuxmy/public_html/ 
