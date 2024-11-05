@@ -989,6 +989,13 @@ b, strong {
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+.absolute-top-right {
+  right: 0;
+  top: 0;
+  position: absolute;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
 .absolute-top-center {
   left: 50%;
   top: 0;
@@ -14377,7 +14384,7 @@ canvas {
   -webkit-transition: all 500ms cubic-bezier(0.61, 1, 0.88, 1);
   transition: all 500ms cubic-bezier(0.61, 1, 0.88, 1);
 }
-.services-box-style-01:hover img {
+.services-box-style-01: img {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
   -webkit-transition: all 500ms cubic-bezier(61, 10, 88, 10);

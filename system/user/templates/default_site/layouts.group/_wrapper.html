@@ -1,12 +1,8 @@
 <!doctype html>
 <html class="no-js" lang="en">
-    <head>
-        <title>Clearfix - A creative driven marketing firm.</title>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="author" content="ThemeZaa">
-        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-        <meta name="description" content="Elevate your online presence with Crafto - a modern, versatile, multipurpose Bootstrap 5 responsive HTML5, SCSS template using highly creative 52+ ready demos.">
+    <head>        
+		<!-- SEO -->
+        {exp:seo_lite use_last_segment="yes"}
         <!-- favicon icon -->
         <link rel="shortcut icon" href="../assets/images/favicon.png">
         <link rel="apple-touch-icon" href="../assets/images/apple-touch-icon-57x57.png">
@@ -58,18 +54,36 @@
 
 {layout:contents}
 
+        <!-- start social section -->
+        <section class="">
+            <div class="container ">
+                <div class="row justify-content-center">
+                    <div class="col-lg-12 col-md-12 col-sm-12 text-center elements-social social-icon-style-06">
+                        <div class="fs-22 mb-25px text-light-gray">Connect with us on social media</div>
+                        <ul class="extra-large-icon fw-600" data-anime='{ "el": "childs", "translateY": [-15, 0], "opacity": [0,1], "duration": 500, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                            <li><a class="facebook" href="https://www.facebook.com" target="_blank"><span class="brand-label text-dark-gray">Fb</span><span class="brand-icon fa-brands fa-facebook-f"></span></a></li>
+                            <li><a class="dribbble" href="http://www.dribbble.com" target="_blank"><span class="brand-label text-dark-gray">Db</span><span class="brand-icon fa-brands fa-dribbble"></span></a></li>
+                            <li><a class="twitter" href="http://www.twitter.com" target="_blank"><span class="brand-label text-dark-gray">Tw</span><span class="brand-icon fa-brands fa-twitter"></span></a></li>
+                            <li><a class="behance" href="http://www.behance.com" target="_blank"><span class="brand-label text-dark-gray">Be</span><span class="brand-icon fa-brands fa-behance"></span></a></li> 
+                            <li><a class="pinterest" href="https://in.pinterest.com" target="_blank"><span class="brand-label text-dark-gray">Pt</span><span class="brand-icon fa-brands fa-pinterest-p"></span></a></li> 
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end section --> 
         <!-- start section -->
-        <section class="pb-4 sm-pt-30px sm-pb-40px overflow-hidden position-relative">
+        <section class="pb-4 pt-30px sm-pt-30px sm-pb-40px overflow-hidden position-relative">
             <div class="container">
                 <div class="row" data-anime='{ "el": "childs", "translateY": [0, 0], "opacity": [0,1], "duration": 500, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <div class="col-sm-5 text-center text-sm-start">
-                        <div class="outside-box-left-25 xl-outside-box-left-10 sm-outside-box-left-0">
+                        <div class="outside-box-left-15 xl-outside-box-left-10 sm-outside-box-left-0">
                             <div class="fs-350 xl-fs-250 lg-fs-200 md-fs-170 sm-fs-100 text-cf-dark-gray-transparent fw-600 ls-minus-20px word-break-normal">work</div>
                         </div>
                     </div>
                     <div class="col-sm-7 text-center text-sm-end">
                         <div class="outside-box-right-5 sm-outside-box-right-0">
-                            <div class="fs-350 xl-fs-250 lg-fs-200 md-fs-170 sm-fs-100 text-cf-dark-gray-transparent fw-600 ls-minus-20px position-relative d-inline-block word-break-normal">together
+                            <div class="fs-350 xl-fs-250 lg-fs-200 md-fs-170 sm-fs-100 text-cf-dark-gray-transparent fw-600 ls-minus-20px position-relative d-inline-block word-break-normal">with&nbsp;us
                                 <div class="position-absolute left-minus-140px top-minus-140px z-index-9 xl-left-minus-110px top-minus-140px xl-top-minus-100px md-top-minus-90px z-index-9 xl-w-230px md-w-200px d-none d-md-block" data-anime='{ "translateY": [-15, 0], "scale": [0.5, 1], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                                     <img src="../assets/images/demo-web-agency-03-v3.png" class="animation-rotation" alt="">
                                     <div class="absolute-middle-center w-100 z-index-minus-1"><img src="../assets/images/demo-web-agency-04-v1_1.png" alt=""></div>
@@ -133,19 +147,6 @@
         </footer>
         <!-- end footer -->
 
-        <!-- start sticky elements -->
-        <div class="sticky-wrap z-index-1 d-none d-xl-inline-block" data-animation-delay="100" data-shadow-animation="true">
-            <div class="elements-social social-icon-style-10">
-                <ul class="small-icon dark fw-600">
-                    <li class="fs-18">Follow us <span class="separator-line-1px w-30px bg-dark-gray d-inline-block align-middle ms-15px"></span></li>
-                    <li><a class="facebook" href="https://www.facebook.com/" target="_blank">Fb.</a> </li>
-                    <li><a class="dribbble" href="http://www.dribbble.com" target="_blank">Dr.</a></li>
-                    <li><a class="twitter" href="http://www.twitter.com" target="_blank">Tw.</a></li>
-                    <li><a class="behance" href="http://www.behance.com/" target="_blank">Be.</a> </li>
-                </ul>
-            </div>
-        </div>
-        <!-- end sticky elements -->
         <!-- start scroll progress -->
         <div class="scroll-progress d-none d-xxl-block">
             <a href="#" class="scroll-top" aria-label="scroll">
@@ -156,6 +157,7 @@
         <!-- javascript libraries -->
         <script type="text/javascript" src="../assets/js/jquery.js"></script>
         <script type="text/javascript" src="../assets/js/vendors.min.js"></script>
+		{if segment_1 == "contact"}<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA54T_9-oTcYxhkJmuzrKqtS08ErsfUwXc&callback=initMap"></script>{/if}
         <script type="text/javascript" src="../assets/js/main.js"></script>
     </body>
 </html>

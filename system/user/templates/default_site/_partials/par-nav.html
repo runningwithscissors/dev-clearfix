@@ -30,19 +30,9 @@
 						<div class="d-flex flex-column justify-content-center h-100 ps-18 pb-12 xxl-p-12 sm-p-20px bg-cf-pink" style="background-image: url('../assets/images/logo-mark-fade-pat.png'); background-repeat: repeat-x;">
 							<div class="hamburger-menu menu-list-wrapper w-50 lg-w-100 lg-no-margin sm-mt-auto sm-mb-auto" data-scroll-options='{ "theme": "light" }'>
                         	    <ul class="menu-item-list fw-500 p-0">
-                                {exp:structure:nav_basic show_depth="2"}
+                                {exp:structure:nav_basic show_depth="1"}
                                   <li class="menu-item">
                                     <a href="{root:page_url}" class="inner-link nav-link">{root:title}</a>
-                                        {if root:has_children}
-                                        <span class="menu-toggle" role="button" data-bs-toggle="collapse" data-bs-target="#sub-menu-{root:count}" aria-expanded="false" aria-label="button" style="height: 2px; width: 18px;"></span>
-                                        <ul class="sub-menu collapse mb-10px ps-20px" id="sub-menu-{root:count}">
-                                          {root:children}
-                                          <li>
-                                            <a href="{child:page_url}" class="text-cf-sky text-cf-sky-hover:hover">{child:title}</a>
-                                          </li>
-                                          {/root:children}
-                                        </ul>
-                                        {/if}
                                   </li>
                                 {/exp:structure:nav_basic}
                                 </ul>
