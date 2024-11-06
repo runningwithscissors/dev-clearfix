@@ -8,5 +8,6 @@ if ($name &&
         ee()->config->item('site_id')
     )->first()->show_field_names == 'y'
 ) {
-    echo ee('View')->make('publish/partials/field_name_badge')->render(['name' => $name]);
+    $partialName = App::isFeatureAvailable('generators') ? 'name_badge_copy' : 'field_name_badge';
+    echo ee('View')->make('publish/partials/' . $partialName)->render(['name' => $name]);
 }

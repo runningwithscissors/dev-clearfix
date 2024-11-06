@@ -5,7 +5,7 @@
  * @subpackage  Extensions
  * @category    Bloqs
  * @author      Brian Litzinger
- * @copyright   Copyright (c) 2012, 2019 - BoldMinded, LLC
+ * @copyright   Copyright (c) 2012, 2024 - BoldMinded, LLC
  * @link        http://boldminded.com/add-ons/bloqs
  * @license
  *

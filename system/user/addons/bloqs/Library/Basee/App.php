@@ -8,7 +8,6 @@ namespace BoldMinded\Bloqs\Library\Basee;
  * @package     ExpressionEngine
  * @category    Basee
  * @author      Brian Litzinger
- * @copyright   Copyright (c) 2022 - BoldMinded, LLC
  * @link        https://github.com/litzinger/basee
  * @license     MIT
  */
@@ -265,6 +264,8 @@ class App
             'newFileManager' => '7.1',
             'fieldNameHints' => '7.4',
             'categoryPermissions' => '7.4',
+            'generators' => '7.5',
+            'formValidation' => '7.5',
         ];
 
         if ($featureName === 'pro') {

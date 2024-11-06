@@ -33,7 +33,7 @@ $table->setColumns($tbl_cols);
 
 $rows = [];
 
-/** @var \BoldMinded\Bloqs\Model\BlockDefinition $blockDefinition */
+/** @var \BoldMinded\Bloqs\Entity\BlockDefinition $blockDefinition */
 foreach($blockDefinitions as $blockDefinition) {
     $rows[] = [
         [

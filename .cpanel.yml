@@ -1,6 +1,10 @@
 ---
 deployment:
   tasks:
+<<<<<<< HEAD
     - export DEPLOY_DIR=/home2/kkbvuxmy/public_html/"
+=======
+    - export DEPLOY_DIR=/home2/kkbvuxmy/public_html/cf-repo/"
+>>>>>>> refs/remotes/origin/main
     - /bin/git --git-dir="${cf-repo}/.git" --work-tree="${cf-repo}" pull origin main
     - echo "Deployment complete."

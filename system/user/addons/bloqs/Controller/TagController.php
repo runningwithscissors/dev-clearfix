@@ -5,7 +5,7 @@
  * @subpackage  Extensions
  * @category    Bloqs
  * @author      Brian Litzinger
- * @copyright   Copyright (c) 2012, 2019 - BoldMinded, LLC
+ * @copyright   Copyright (c) 2012, 2024 - BoldMinded, LLC
  * @link        http://boldminded.com/add-ons/bloqs
  * @license
  *
@@ -40,9 +40,9 @@ use BoldMinded\Bloqs\Library\Basee\App;
 use BoldMinded\Bloqs\Database\Adapter;
 use BoldMinded\Bloqs\Helper\TreeHelper;
 use BoldMinded\Bloqs\Library\Basee\Parser;
-use BoldMinded\Bloqs\Model\Atom;
-use BoldMinded\Bloqs\Model\AtomDefinition;
-use BoldMinded\Bloqs\Model\Block;
+use BoldMinded\Bloqs\Entity\Atom;
+use BoldMinded\Bloqs\Entity\AtomDefinition;
+use BoldMinded\Bloqs\Entity\Block;
 
 /**
  * A parser and outputter for the root tag of the Blocks fieldtype.
@@ -227,7 +227,7 @@ class TagController
      * The primary entry point for the Blocks parser
      *
      * @param string $tagdata The parsed template that EE gives.
-     * @param \BoldMinded\Bloqs\Model\Block[] $blocks The blocks that will be outputted.
+     * @param \BoldMinded\Bloqs\Entity\Block[] $blocks The blocks that will be outputted.
      * @param array $channelRow Top-level row data that EE provides. Typically $this->row from the fieldtype.
      * @param array $params
      * @return string

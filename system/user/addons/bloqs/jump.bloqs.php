@@ -1,7 +1,7 @@
 <?php
 
 use BoldMinded\Bloqs\Database\Adapter;
-use BoldMinded\Bloqs\Model\BlockDefinition;
+use BoldMinded\Bloqs\Entity\BlockDefinition;
 use ExpressionEngine\Service\JumpMenu\AbstractJumpMenu;
 
 
@@ -10,7 +10,7 @@ use ExpressionEngine\Service\JumpMenu\AbstractJumpMenu;
  * @subpackage  Extensions
  * @category    Bloqs
  * @author      Brian Litzinger
- * @copyright   Copyright (c) 2012, 2019 - BoldMinded, LLC
+ * @copyright   Copyright (c) 2012, 2024 - BoldMinded, LLC
  * @link        http://boldminded.com/add-ons/bloqs
  * @license
  *

@@ -1,6 +1,6 @@
 <?php
 
-use BoldMinded\Bloqs\Model\Block;
+use BoldMinded\Bloqs\Entity\Block;
 
 $isComponent = $blockDefinition->isComponent();
 if ($isComponent) {

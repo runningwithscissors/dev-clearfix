@@ -1,4 +1,4 @@
-<?php use BoldMinded\Bloqs\Model\BlockDefinition; ?>
+<?php use BoldMinded\Bloqs\Entity\BlockDefinition; ?>
 
 <div class="blocksft grid-input-form <?php echo $isModernEE ? 'isModernEE' : ''; ?>"
      data-field-id="<?php echo intval($fieldId) ?>"
@@ -42,7 +42,7 @@
             </li>
             <?php
             foreach ($bloqs as $blockData) {
-                /** @var \BoldMinded\Bloqs\Model\Block $block */
+                /** @var \BoldMinded\Bloqs\Entity\Block $block */
                 $block = $blockData['block'];
                 $this->embed('block', [
                     'blockData' => $blockData,
@@ -86,7 +86,7 @@
 
                     foreach ($blockDefinitions as $groupId => $groupedDefinitions) {
                         foreach ($groupedDefinitions as $blockDefinitionVars) {
-                            /** @var \BoldMinded\Bloqs\Model\BlockDefinition $blockDefinition */
+                            /** @var \BoldMinded\Bloqs\Entity\BlockDefinition $blockDefinition */
                             $blockDefinition = $blockDefinitionVars['definition'];
 
                             if ($blockDefinition->isDeprecated()

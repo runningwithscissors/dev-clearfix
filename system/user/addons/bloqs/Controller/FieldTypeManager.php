@@ -5,7 +5,7 @@
  * @subpackage  Extensions
  * @category    Bloqs
  * @author      Brian Litzinger
- * @copyright   Copyright (c) 2012, 2019 - BoldMinded, LLC
+ * @copyright   Copyright (c) 2012, 2024 - BoldMinded, LLC
  * @link        http://boldminded.com/add-ons/bloqs
  * @license
  *
@@ -37,8 +37,8 @@
 namespace BoldMinded\Bloqs\Controller;
 
 use Api_channel_fields;
-use BoldMinded\Bloqs\Model\AtomDefinition;
-use BoldMinded\Bloqs\Model\FieldType;
+use BoldMinded\Bloqs\Entity\AtomDefinition;
+use BoldMinded\Bloqs\Entity\FieldType;
 use ExpressionEngine\Legacy\Facade;
 use \Exception;
 use \stdClass;
@@ -147,7 +147,7 @@ class FieldTypeManager
             }
         }
 
-        $ftw = new FieldTypeWrapper($fieldtype, $ftpl, $fta);
+        $ftw = new FieldTypeWrapper($this->EE, $fieldtype, $ftpl, $fta);
 
         if ($ftw->getContentType() === 'none') {
             throw new Exception("Specified fieldtype '{$atomDefinition->getType()}' does not support blocks");
@@ -230,7 +230,7 @@ class FieldTypeManager
         foreach ($fieldtypes as $fieldName => $data) {
             $fieldtype = $fieldtypeApi->setup_handler($fieldName, true);
             $ftpl = $this->getFieldTypePackageLoader($fieldName);
-            $ftw = new FieldTypeWrapper($fieldtype, $ftpl, null);
+            $ftw = new FieldTypeWrapper($this->EE, $fieldtype, $ftpl, null);
 
             if (!$ftw->supportsGrid()) {
                 continue;

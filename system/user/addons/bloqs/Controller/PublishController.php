@@ -5,7 +5,7 @@
  * @subpackage  Extensions
  * @category    Bloqs
  * @author      Brian Litzinger
- * @copyright   Copyright (c) 2012, 2019 - BoldMinded, LLC
+ * @copyright   Copyright (c) 2012, 2024 - BoldMinded, LLC
  * @link        http://boldminded.com/add-ons/bloqs
  * @license
  *
@@ -39,10 +39,10 @@ namespace BoldMinded\Bloqs\Controller;
 use BoldMinded\Bloqs\Library\Basee\App;
 use BoldMinded\Bloqs\Helper\StringHelper;
 use BoldMinded\Bloqs\Helper\TreeHelper;
-use BoldMinded\Bloqs\Model\Atom;
-use BoldMinded\Bloqs\Model\AtomDefinition;
-use BoldMinded\Bloqs\Model\Block;
-use BoldMinded\Bloqs\Model\BlockDefinition;
+use BoldMinded\Bloqs\Entity\Atom;
+use BoldMinded\Bloqs\Entity\AtomDefinition;
+use BoldMinded\Bloqs\Entity\Block;
+use BoldMinded\Bloqs\Entity\BlockDefinition;
 use \stdClass as stdClass;
 
 class PublishController {
@@ -155,7 +155,7 @@ class PublishController {
 
     /**
      * @param $control
-     * @param string $class ('BoldMinded\Bloqs\Model\Atom'|'BoldMinded\Bloqs\Model\AtomDefinition')
+     * @param string $class BoldMinded\Bloqs\Entity\Atom|BoldMinded\Bloqs\Entity\AtomDefinition
      * @return bool
      */
     private function isValidAtomControl($control, $class = null)

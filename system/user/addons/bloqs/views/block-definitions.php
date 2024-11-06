@@ -19,7 +19,7 @@ $rows = [];
 
 $modalController = new ModalController();
 
-/** @var \BoldMinded\Bloqs\Model\BlockDefinition $blockDefinition */
+/** @var \BoldMinded\Bloqs\Entity\BlockDefinition $blockDefinition */
 foreach($blockDefinitions as $blockDefinition) {
     if ($blockDefinition->isHidden()) {
         continue;

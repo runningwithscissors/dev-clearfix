@@ -5,7 +5,7 @@
  * @subpackage  Extensions
  * @category    Bloqs
  * @author      Brian Litzinger
- * @copyright   Copyright (c) 2012, 2019 - BoldMinded, LLC
+ * @copyright   Copyright (c) 2012, 2024 - BoldMinded, LLC
  * @link        http://boldminded.com/add-ons/bloqs
  * @license
  *
@@ -36,10 +36,12 @@
 
 namespace BoldMinded\Bloqs\Controller;
 
+use ExpressionEngine\Legacy\Facade;
 use \InvalidArgumentException;
 
 class FieldTypeWrapper
 {
+    private $EE;
     private $_fieldtype;
     private $_contentType = null;
     private $_packageLoader;
@@ -50,7 +52,13 @@ class FieldTypeWrapper
      * @param FieldTypePackageLoader $packageLoader
      * @param null $shim
      */
-    function __construct($fieldtype, $packageLoader, $shim = null) {
+    function __construct(
+        $ee,
+        $fieldtype,
+        $packageLoader,
+        $shim = null
+    ) {
+        $this->EE = $ee;
         $this->_fieldtype = $fieldtype;
         $this->_contentType = $this->_getContentType();
         $this->_shim = $shim;
@@ -264,10 +272,10 @@ class FieldTypeWrapper
         if (
             count($args) &&
             $methodName === 'display_field' &&
-            isset(ee()->extensions) &&
-            ee()->extensions->active_hook('custom_field_modify_data') === true
+            isset($this->EE->extensions) &&
+            $this->EE->extensions->active_hook('custom_field_modify_data') === true
         ) {
-            $args = ee()->extensions->call('custom_field_modify_data', $ft, $methodName, $args);
+            $args = $this->EE->extensions->call('custom_field_modify_data', $ft, $methodName, $args);
         }
 
         // Intercept the method on the fieldtype if another add-on is subscribing to the hook.
@@ -277,8 +285,8 @@ class FieldTypeWrapper
         $ftName = strtolower(preg_replace('/(.*?)_ft$/', '$1', get_class($ft)));
         $interceptHookName = sprintf('blocks_intercept_%s_%s', $ftName, $methodName);
 
-        if (isset(ee()->extensions) && ee()->extensions->active_hook($interceptHookName) === true) {
-            $result = ee()->extensions->call($interceptHookName, $ft, $args);
+        if (isset($this->EE->extensions) && $this->EE->extensions->active_hook($interceptHookName) === true) {
+            $result = $this->EE->extensions->call($interceptHookName, $ft, $args);
             $this->_packageLoader->unload();
             return $result;
         }

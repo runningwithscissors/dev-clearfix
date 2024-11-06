@@ -7,6 +7,7 @@ use BoldMinded\Bloqs\Controller\TagController;
 use BoldMinded\Bloqs\Controller\TagOutputBlockContext;
 use BoldMinded\Bloqs\Controller\FieldTypeManager as BloqsFieldTypeManager;
 use BoldMinded\Bloqs\Helper\TreeHelper;
+use BoldMinded\Bloqs\Entity\Block;
 use Expressionengine\Coilpack\Api\Graph\Support\FieldtypeRegistrar;
 use Expressionengine\Coilpack\Contracts\GeneratesGraphType;
 use Expressionengine\Coilpack\Contracts\ListsGraphType;
@@ -53,7 +54,10 @@ class Replace extends Fieldtype implements GeneratesGraphType, ListsGraphType
 
         $this->entryId = $attributes['entry_id'];
         $this->fieldId = $attributes['field_type_id'];
-        $this->blocks = ee('bloqs:Adapter')->getBlocks($this->entryId, $this->fieldId);
+        $this->blocks = array_filter(
+            ee('bloqs:Adapter')->getBlocks($this->entryId, $this->fieldId),
+            static fn (Block $block) => !$block->isDraft()
+        );
 
         $controller = new TagController(
             ee(),

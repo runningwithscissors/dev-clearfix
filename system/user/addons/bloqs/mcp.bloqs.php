@@ -7,11 +7,11 @@ use BoldMinded\Bloqs\Controller\HookExecutor;
 use BoldMinded\Bloqs\Controller\TemplateCodeRenderer;
 use BoldMinded\Bloqs\Database\Adapter;
 use BoldMinded\Bloqs\Library\Basee\Version;
-use BoldMinded\Bloqs\Model\AtomDefinition;
-use BoldMinded\Bloqs\Model\Block;
-use BoldMinded\Bloqs\Model\BlockDefinition;
-use BoldMinded\Bloqs\Model\BlockGroup;
-use BoldMinded\Bloqs\Model\FieldType;
+use BoldMinded\Bloqs\Entity\AtomDefinition;
+use BoldMinded\Bloqs\Entity\Block;
+use BoldMinded\Bloqs\Entity\BlockDefinition;
+use BoldMinded\Bloqs\Entity\BlockGroup;
+use BoldMinded\Bloqs\Entity\FieldType;
 use BoldMinded\Bloqs\Library\FileField\FileField;
 use BoldMinded\Bloqs\Service\MaxInputVars;
 use BoldMinded\Bloqs\Service\StandaloneField;
@@ -27,7 +27,7 @@ if (!defined('BASEPATH')) {
  * @subpackage  Extensions
  * @category    Bloqs
  * @author      Brian Litzinger
- * @copyright   Copyright (c) 2012, 2019 - BoldMinded, LLC
+ * @copyright   Copyright (c) 2012, 2024 - BoldMinded, LLC
  * @link        http://boldminded.com/add-ons/bloqs
  * @license
  *

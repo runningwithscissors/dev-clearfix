@@ -1,0 +1,21 @@
+        <!-- start section -->
+        <section class="overflow-hidden pb-0">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12 col-md-12">
+                        <div class="outside-box-right-60 outside-box-left-60 sm-outside-box-right-0 sm-outside-box-left-0">
+                            <div class="swiper magic-cursor drag-cursor" data-slider-options='{ "slidesPerView": 1, "spaceBetween": 60, "loop": true, "autoplay": { "delay": 2000, "disableOnInteraction": false },  "pagination": { "el": ".slider-three-slide-pagination", "clickable": true, "dynamicBullets": true }, "navigation": { "nextEl": ".slider-three-slide-next", "prevEl": ".slider-three-slide-prev" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "992": { "slidesPerView": 3 }, "768": { "slidesPerView": 3 }, "320": { "slidesPerView": 1 } }, "effect": "slide" }'>
+                                <div class="swiper-wrapper">									
+                                    {images}<!-- start slider item -->
+                                    <div class="swiper-slide">
+                                        {images:image}<img src="{url}" class="w-100" alt="{alt_text}" />{/images:image}
+                                    </div>
+                                    <!-- end slider item -->{/images}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end section -->

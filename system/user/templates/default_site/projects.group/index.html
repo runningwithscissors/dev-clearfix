@@ -1,0 +1,20 @@
+{!-- This template will only include title and search excerpt --}
+<html>
+    <head>
+        <title>Default Page, Work</title>
+    </head>
+    <body>
+        <div>
+            <h1>Default Page, Work</h1>
+            {exp:channel:entries channel="default_page|work" dynamic="no" paginate="bottom"}
+                {if no_results}
+                    <p>No entries.</p>
+                {/if}
+                <h3><a href="{path=projects/entry/{url_title}}">{title}</a></h3>
+                {paginate}
+                    <p>Page {current_page} of {total_pages} pages {pagination_links}</p>
+                {/paginate}
+            {/exp:channel:entries}
+        </div>
+    </body>
+</html>

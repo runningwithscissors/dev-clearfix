@@ -1,0 +1,85 @@
+<html>
+    <head>
+    {exp:channel:entries channel="default_page|work" require_entry="yes"}
+        {if no_results}{redirect="404"}{/if}
+        <title>{title}</title>
+    {/exp:channel:entries}
+    </head>
+    <body>
+        {exp:channel:entries channel="default_page|work" require_entry="yes"}
+        <h1>{title}</h1>
+        <p>by {author} on <a href="{path=projects/archive/{entry_date format='%Y'}}">{entry_date format="%F %d, %Y"}</a></p>
+        {categories}
+            <a href="{site_url}/projects/category/{category_url_title}">{category_name}</a>
+        {/categories}
+            <div>
+                {!-- Field: Page Builder --}
+                {!-- Fieldtype: bloqs --}
+                {!-- Docs: https://boldminded.com/add-ons/bloqs --}
+                <div>
+                    {page_builder}
+                        {!-- This field is built to be used as tag pair --}
+                        {!-- But we could not determine the possible variables to use inside tag pair --}
+                        {!-- Please refer to the documentation link above --}
+                    {/page_builder}
+                </div>
+                {!-- End field: Page Builder --}
+            </div>
+
+            <div>
+                {!-- Field: Blog Builder --}
+                {!-- Fieldtype: bloqs --}
+                {!-- Docs: https://boldminded.com/add-ons/bloqs --}
+                <div>
+                    {blog_builder}
+                        {!-- This field is built to be used as tag pair --}
+                        {!-- But we could not determine the possible variables to use inside tag pair --}
+                        {!-- Please refer to the documentation link above --}
+                    {/blog_builder}
+                </div>
+                {!-- End field: Blog Builder --}
+            </div>
+
+            <div>
+                {!-- Field: Template Type --}
+                {!-- Fieldtype: select --}
+                {!-- Docs: https://docs.expressionengine.com/latest/fieldtypes/select.html --}
+                <span class="label">{template_type:label}</span>: <span class="value">{template_type}</span> / <span class="value">{template_type:value}</span>                
+                {!-- End field: Template Type --}
+            </div>
+
+            <div>
+                {!-- Field: Static Template --}
+                {!-- Fieldtype: select --}
+                {!-- Docs: https://docs.expressionengine.com/latest/fieldtypes/select.html --}
+                <span class="label">{static_template:label}</span>: <span class="value">{static_template}</span> / <span class="value">{static_template:value}</span>                
+                {!-- End field: Static Template --}
+            </div>
+
+            <div>
+                {!-- Field: Client --}
+                {!-- Fieldtype: relationship --}
+                {!-- Docs: https://docs.expressionengine.com/latest/fieldtypes/relationships.html --}
+                <ul>
+                    {clients}
+                    <li{if '{clients:count}' == '{clients:total_rows}'} class="last"{/if}><a href="{path={segment_1}/details/{clients:url_title}}">{clients:title}</a></li>
+                    {/clients}
+                </ul>                
+                {!-- End field: Client --}
+            </div>
+
+        {/exp:channel:entries}
+
+        <hr>
+        {embed="projects/_comment_form"}
+
+        <hr>
+        {exp:channel:next_entry channel="default_page|work"}
+            <p>Next entry: <a href="{path='projects/entry'}">{title}</a></p>
+        {/exp:channel:next_entry}
+
+        {exp:channel:prev_entry channel="default_page|work"}
+            <p>Previous entry: <a href="{path='projects/entry}">{title}</a></p>
+        {/exp:channel:prev_entry}
+    </body>
+</html>

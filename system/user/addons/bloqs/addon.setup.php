@@ -1,10 +1,10 @@
 <?php
-// Build: 04904c4b
+// Build: fb9d0067
 /**
  * @package     ExpressionEngine
  * @category    Bloqs
  * @author      Brian Litzinger
- * @copyright   Copyright (c) 2012, 2019 - BoldMinded, LLC
+ * @copyright   Copyright (c) 2012, 2024 - BoldMinded, LLC
  * @link        http://boldminded.com/add-ons/bloqs
  * @license
  *
@@ -45,8 +45,8 @@ if (!class_exists('Bloqs_base')) {
 }
 
 if (!defined('BLOQS_VERSION')) {
-    define('BLOQS_VERSION', '5.0.16');
-    define('BLOQS_BUILD_VERSION', '04904c4b');
+    define('BLOQS_VERSION', '5.1.0');
+    define('BLOQS_BUILD_VERSION', 'fb9d0067');
     define('BLOQS_TRIAL', file_exists(PATH_THIRD . 'bloqs/Config/trial'));
     define('BLOQS_NAME', 'Bloqs' . (BLOQS_TRIAL ? ' (Free Trial)' : ''));
     define('BLOQS_NAME_SHORT', 'Bloqs');
@@ -81,6 +81,13 @@ return [
     'coilpack' => [
         'fieldtypes' => [
             'bloqs' => 'BoldMinded\Bloqs\Tags\Replace',
+        ]
+    ],
+
+    'fieldtypes' => [
+        'bloqs' => [
+            'name' => 'Bloqs',
+            'templateGenerator' => 'Bloqs'
         ]
     ],
 

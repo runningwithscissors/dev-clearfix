@@ -52,7 +52,7 @@ $table->setColumns([
 
 $rows = [];
 
-/** @var \BoldMinded\Bloqs\Model\BlockDefinition $component */
+/** @var \BoldMinded\Bloqs\Entity\BlockDefinition $component */
 foreach($components as $component) {
     $rows[] = [
         [

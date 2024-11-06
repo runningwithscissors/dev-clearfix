@@ -16,7 +16,7 @@ $rows = [];
 
 $modalController = new ModalController();
 
-/** @var \BoldMinded\Bloqs\Model\BlockGroup $blockGroup */
+/** @var \BoldMinded\Bloqs\Entity\BlockGroup $blockGroup */
 foreach($blockGroups as $blockGroup) {
     $rows[] = [
         [

@@ -19,7 +19,7 @@ if (!defined('BASEPATH')) {
  * @subpackage  Extensions
  * @category    Bloqs
  * @author      Brian Litzinger
- * @copyright   Copyright (c) 2012, 2019 - BoldMinded, LLC
+ * @copyright   Copyright (c) 2012, 2024 - BoldMinded, LLC
  * @link        http://boldminded.com/add-ons/bloqs
  * @license
  *
@@ -243,9 +243,9 @@ class Bloqs_ext
             $columns = [];
             $blocks = $adapter->getBlockDefinitionsForField($fieldId);
 
-            /** @var \BoldMinded\Bloqs\Model\BlockDefinition $block */
+            /** @var \BoldMinded\Bloqs\Entity\BlockDefinition $block */
             foreach ($blocks as $block) {
-                /** @var \BoldMinded\Bloqs\Model\AtomDefinition $atomDefinition */
+                /** @var \BoldMinded\Bloqs\Entity\AtomDefinition $atomDefinition */
                 foreach ($block->getAtomDefinitions() as $atomDefinition) {
                     if ($atomDefinition->getType() === 'relationship') {
                         $columns[] = $atomDefinition->getId();

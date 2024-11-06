@@ -3,8 +3,8 @@
 namespace BoldMinded\Bloqs\Controller;
 
 use BoldMinded\Bloqs\Database\Adapter;
-use BoldMinded\Bloqs\Model\AtomDefinition;
-use BoldMinded\Bloqs\Model\BlockDefinition;
+use BoldMinded\Bloqs\Entity\AtomDefinition;
+use BoldMinded\Bloqs\Entity\BlockDefinition;
 
 class TemplateCodeRenderer
 {

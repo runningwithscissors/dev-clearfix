@@ -19,6 +19,7 @@ $lang = [
     'bloqs_fieldsettings_template_code' => 'Template Code',
     'bloqs_fieldsettings_template_code_desc' => 'This is a basic example of template code necessary to render this field. 
         Copy and paste this into your template file to get started. You will probably need to modify this to meet your project needs.',
+    'bloqs_fieldsettings_template_code_desc_generators' => 'If you make changes to the bloqs assigned to this field you will need to save this field\'s settings to receive updated template code.',
 
     'bloqs_fieldsettings_auto_expand' => 'Auto Expand?',
     'bloqs_fieldsettings_auto_expand_desc' => 'You may have all bloqs display in expanded mode when editing an entry.',

@@ -1,0 +1,51 @@
+        <!-- start section -->
+        <section class="p-0">
+            <div class="container-fluid">
+                <div class="row align-items-center justify-content-center">
+                    {project_overview:project_intro_image}<div class="col-10 h-600px md-h-500px sm-h-350px position-relative border-radius-6px border border-color-transparent cover" data-parallax-background-ratio="0.5" style="background-image: url('{url}');"></div>{/project_overview:project_intro_image}
+                </div>
+            </div>
+        </section>
+        <!-- end section -->
+        <!-- start section -->
+        <section class="pb-0 mt-0">
+            <div class="container">
+                <div class="row mb-5 md-mb-7">
+                    <div class="col-md-5 d-flex flex-column sm-mb-20px">
+                        <h2 class="text-cf-sky fw-600 ls-minus-2px">Brand overview</h2>
+                        <div class="mt-auto">
+                            {if awards != ""}<div class="fs-14 text-white text-uppercase fw-500 mt-5px"><span class="fw-700 text-cf-sky">Awards</span>{awards}</div>{/if}
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-md-7 offset-lg-2 text-light-gray">
+                        <p>{overview_text}</p>
+                        <ul class="p-0 m-0 list-style-01">
+                            {project_deliverables}<li class="border-color-light-gray pt-10px pb-10px text-white fw-600">{deliverables}</li>{/project_deliverables}
+                        </ul>
+                    </div>
+                </div>
+                <div class="row align-items-center mb-10">
+                    <div class="col-lg-6 col-md-5">
+                        <div class="outside-box-left-25 lg-outside-box-left-30 d-none d-md-inline-block">
+                            <div class="fs-350 xl-fs-300 lg-fs-250 md-fs-180 text-cf-coal fw-600 ls-minus-20px word-break-normal" data-bottom-top="transform:scale(1, 1) translate3d(0px, 0px, 0px);" data-top-bottom="transform:scale(1, 1) translate3d(-100px, 0px, 0px);">{big_animated_text}</div>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 offset-lg-1 col-md-7 last-paragraph-no-margin position-relative">
+                        <span class="fs-20 fw-600 mb-5px d-block text-cf-sky">The Solution</span>
+                        <p class="w-80 lg-w-100 text-light-gray">{the_solution}</p>
+                    </div>
+                </div>
+                {project_images}<div class="row mb-7">
+                    <div class="col-12">
+                        {project_images:image}<img src="{url}" class="w-100 border-radius-6px" alt=""/>{/project_images:image}
+                    </div>
+                </div>
+                <div class="row justify-content-center mb-7">
+                    <div class="col-lg-6 col-md-10 last-paragraph-no-margin text-light-gray">
+                        <span class="fs-20 fw-600 mb-5px d-block text-cf-sky">{caption_title}</span>
+                        <p>{caption}</p>
+                    </div>
+                </div>{/project_images}            
+            </div>
+        </section>
+        <!-- end section -->

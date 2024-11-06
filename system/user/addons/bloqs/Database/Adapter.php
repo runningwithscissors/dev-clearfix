@@ -5,7 +5,7 @@
  * @subpackage  Extensions
  * @category    Bloqs
  * @author      Brian Litzinger
- * @copyright   Copyright (c) 2012, 2019 - BoldMinded, LLC
+ * @copyright   Copyright (c) 2012, 2024 - BoldMinded, LLC
  * @link        http://boldminded.com/add-ons/bloqs
  * @license
  *
@@ -37,14 +37,14 @@
 namespace BoldMinded\Bloqs\Database;
 
 use BoldMinded\Bloqs\Library\Basee\App;
-use BoldMinded\Bloqs\Model\BlockGroup;
+use BoldMinded\Bloqs\Entity\BlockGroup;
 use CI_DB_result;
 use BoldMinded\Bloqs\Controller\HookExecutor;
 use BoldMinded\Bloqs\Helper\TreeHelper;
-use BoldMinded\Bloqs\Model\BlockDefinition;
-use BoldMinded\Bloqs\Model\AtomDefinition;
-use BoldMinded\Bloqs\Model\Block;
-use BoldMinded\Bloqs\Model\Atom;
+use BoldMinded\Bloqs\Entity\BlockDefinition;
+use BoldMinded\Bloqs\Entity\AtomDefinition;
+use BoldMinded\Bloqs\Entity\Block;
+use BoldMinded\Bloqs\Entity\Atom;
 
 class Adapter
 {

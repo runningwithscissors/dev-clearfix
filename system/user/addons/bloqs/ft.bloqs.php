@@ -4,7 +4,7 @@ use BoldMinded\Bloqs\Controller\ModalController;
 use BoldMinded\Bloqs\Library\Basee\App;
 use BoldMinded\Bloqs\Library\Basee\Cache;
 use BoldMinded\Bloqs\Library\Basee\Trial;
-use BoldMinded\Bloqs\Model\BlockDefinition;
+use BoldMinded\Bloqs\Entity\BlockDefinition;
 use BoldMinded\Bloqs\Service\FormSecret;
 use BoldMinded\Bloqs\Controller\FieldTypeFilter;
 use BoldMinded\Bloqs\Controller\FieldTypeManager;
@@ -24,7 +24,7 @@ if (!defined('BASEPATH')) {
  * @subpackage  Extensions
  * @category    Bloqs
  * @author      Brian Litzinger
- * @copyright   Copyright (c) 2012, 2019 - BoldMinded, LLC
+ * @copyright   Copyright (c) 2012, 2024 - BoldMinded, LLC
  * @link        http://boldminded.com/add-ons/bloqs
  * @license
  *
@@ -803,13 +803,6 @@ class Bloqs_ft extends EE_Fieldtype
      */
     public function display_settings($data)
     {
-        $urlHelper = new UrlHelper();
-
-        ee()->javascript->set_global('bloqs.ajax_fetch_template_code',
-            $urlHelper->getAction('fetch_template_code', [
-                'field_id' => $this->field_id,
-            ]));
-
         $this->includeThemeCSS('css/edit-field.css');
         $this->includeThemeJS('javascript/edit-field.js');
 
@@ -829,7 +822,7 @@ class Bloqs_ft extends EE_Fieldtype
         $blockDefinitionChoicesDisabled = [];
         $blockDefinitionChoicesSelected = [];
 
-        /** @var \BoldMinded\Bloqs\Model\BlockDefinition $blockDefinition */
+        /** @var \BoldMinded\Bloqs\Entity\BlockDefinition $blockDefinition */
         foreach ($blockDefinitions as $blockDefinition) {
             $componentIcon = $blockDefinition->isComponent() ? ' <span class="fas fa-layer-group" style="color: var(--ee-accent-dark);" title="Component"></span>' : '';
             $deprecatedNote = $blockDefinition->getDeprecatedNote() ? 'Deprecated: ' . $blockDefinition->getDeprecatedNote() : 'Deprecated';
@@ -893,6 +886,24 @@ class Bloqs_ft extends EE_Fieldtype
             $templateCodeOutput = 'You must save this field before a basic component can be provided.';
         }
 
+        $templateCodeDescription = lang('bloqs_fieldsettings_template_code_desc');
+
+        $urlHelper = new UrlHelper();
+
+        if (App::isFeatureAvailable('generators')) {
+            ee()->javascript->set_global('bloqs.ajax_fetch_template_code',
+                ee('CP/URL')->make('cp/design/copy/fields/' . $this->field_id)->compile()
+            );
+
+            $templateCodeDescription .= ' ' .lang('bloqs_fieldsettings_template_code_desc_generators');
+        } else {
+            ee()->javascript->set_global('bloqs.ajax_fetch_template_code',
+                $urlHelper->getAction('fetch_template_code', [
+                    'field_id' => $this->field_id,
+                ])
+            );
+        }
+
         $settings = [
             [
                 'title' => 'bloqs_fieldsettings_auto_expand',
@@ -940,7 +951,7 @@ class Bloqs_ft extends EE_Fieldtype
             ],
             [
                 'title' => 'bloqs_fieldsettings_template_code',
-                'desc' => 'bloqs_fieldsettings_template_code_desc',
+                'desc' => $templateCodeDescription,
                 'wide' => true,
                 'fields' => [
                     'template' => [
@@ -949,7 +960,7 @@ class Bloqs_ft extends EE_Fieldtype
                         'value' => $templateCodeOutput,
                     ]
                 ]
-            ]
+            ],
         ];
 
         return [
